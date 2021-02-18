@@ -1,0 +1,15 @@
+Variables: hay que entenderlo como una cajita donde guardo cosas para usar después, ejemplo palabras, números
+Strings: es una de las cosas que puedo guardar y que le da valor a la variable, va siempre entre comillas '' 
+Funcion: para quien programa repita menos codigo, agrupa codigo, lo guarda para cuando lo necesita.
+Las funciones pueden tener o no (argumento/variable) que luego quien llame ese codigo le da un valor con un
+'string'(palabra/texto) o con un número. 
+Return: a veces necesito que devuelva una respuesta a partir de de la info que le ingreso, que me diga si 
+es verdadero o falso un valor ingresado, o que sume o reste dos valores, para eso uso la orden, return, es
+decir me retorna una respuesta a los valores que le ingreso.
+declaración if: sería como decir si/if pasa esto darme esta respuesta. Si tiene más de 18 años, decir 
+'es mayor de edad'
+Valores Booleanos: los usa el programador para saber/ indicar si una condición se cumple (True/verdadero)
+o no se cumple (False/ Falso). En el ejemplo de la edad > 18, podríamos indicar verdadero/falso según se
+cumpla o no con la condición de mayoría de edad. 
+
+
