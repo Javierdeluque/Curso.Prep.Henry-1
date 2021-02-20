@@ -1,0 +1,15 @@
+For: es un bucleque nos permite en un programa recorrer el código a partir de una var definida y que permite
+la repetición de un ciclo hasta que una condic. sobre esa var deje de ser verdadera.
+
+Operadores Lógicos
+
+Dentro de un programa podemos necesitar comparar si determinadas condiciones son V o F, ó si solo una
+de ellas es verdadera, o ninguna. Para nos valemos de && (AND/Y); || (Ó//OR); !(NO//NOT)
+
+&& Al comparar condiciones 'y' es muy útil para comparar dos o más condiciones, pero al ser inclusivo,
+todas las condiciones deben ser verdaderas para que el código se ejecute.
+
+|| Exige como operador que al menos una de las condiciones sea verdadera para que se ejecute el código.
+
+! Devuelve el valor contrario al que valor booleano que se le ingresa, y si devuelve falso el código no se 
+ejecuta. 
