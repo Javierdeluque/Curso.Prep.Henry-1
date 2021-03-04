@@ -1,0 +1,6 @@
+Array: podemos definirlas como lista de cosas, es decir todo tipo de datos
+contenidos entre corchetes [](var lista =[1, 'pepe']), podemos guardar números, strings funciones, null, 
+undefines, es decir todo tipo de datos, y para acceder a ellos se coloca
+el nombre de la Array + la posición del elemento al que quiero acceder, por ej:
+var lista [1, 2, 3, 'javi', undefined, null], si quiero acceder a 2, debo tomar el
+indice desde 0, esto es: 0)1, 1)2, 2)3, 3)javi... lista[1] accedo a 2.
